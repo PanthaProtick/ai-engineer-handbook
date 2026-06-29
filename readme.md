@@ -10,9 +10,11 @@ Become an AI Engineer capable of building production-ready AI applications.
 
 ✅ Part 1 Chapter 1
 
-🔄 Part 1 Chapter 2
+✅ Part 1 Chapter 2
 
-⬜ Part 1 Chapter 3
+🔄 Part 1 Chapter 3
+
+⬜ Part 1 Chapter 4
 
 ---
 
