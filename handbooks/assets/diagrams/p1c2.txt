@@ -1,0 +1,43 @@
+When someone visits a website
+User
+ │
+ ▼
+Type URL
+ │
+ ▼
+Browser
+ │
+ ▼
+DNS Lookup
+ │
+ ▼
+IP Address
+ │
+ ▼
+Internet
+ │
+ ▼
+Server
+ │
+ ▼
+FastAPI
+ │
+ ▼
+Database / CNN
+ │
+ ▼
+Response
+ │
+ ▼
+Browser renders page
+
+Internet Services
+Internet
+│
+├── Web (HTTP)
+├── Email
+├── FTP
+├── SSH
+├── Online Games
+└── Many others
+
