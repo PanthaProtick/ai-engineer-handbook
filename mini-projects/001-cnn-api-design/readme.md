@@ -6,4 +6,5 @@
 | DELETE | `/predictions/{id}` | Delete a prediction                      |
 | POST   | `/feedback/{id}`    | Correct a prediction                     |
 | GET    | `/health`           | Health check for deployment              |
-| GET    | `/signout`          | Log out                                  |
+| GET    | `/logout`           | Log out                                  |
+| GET    | `/me`               | Get user info                            |
