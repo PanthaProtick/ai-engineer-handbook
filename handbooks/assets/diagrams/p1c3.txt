@@ -1,0 +1,25 @@
+Anatomy of HTTP Request
+Method
+
+↓
+
+URL
+
+↓
+
+Headers
+
+↓
+
+Body (optional)
+
+Anatomy of HTTP Response
+Status Code
+
+↓
+
+Headers
+
+↓
+
+Body
