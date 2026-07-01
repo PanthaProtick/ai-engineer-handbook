@@ -1,0 +1,61 @@
+## OS junk
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+## Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+## Python caches and bytecode
+**/__pycache__/
+**/*.py[cod]
+**/*.pyd
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+**/.coverage
+**/coverage.xml
+**/htmlcov/
+
+## Python environments and packaging
+**/.venv/
+**/venv/
+**/env/
+**/ENV/
+**/__pypackages__/
+**/.python-version
+**/dist/
+**/build/
+**/*.egg-info/
+**/.eggs/
+**/pip-wheel-metadata/
+
+## Dependency folders
+**/node_modules/
+**/vendor/
+**/site-packages/
+**/.parcel-cache/
+**/.next/
+**/.nuxt/
+**/.svelte-kit/
+
+## Logs and runtime files
+**/*.log
+**/*.pid
+**/*.seed
+**/*.out
+**/*.err
+
+## Notebook checkpoints
+**/.ipynb_checkpoints/
+
+## Temporary files
+**/.tmp/
+**/tmp/
+**/temp/
+**/.cache/
+**/cache/

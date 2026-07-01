@@ -1,1 +1,4 @@
 https://mdn.github.io/shared-assets/images/diagrams/http/overview/http-request.svg
+
+https://mdn.github.io/shared-assets/images/diagrams/http/overview/http-response.svg
+
